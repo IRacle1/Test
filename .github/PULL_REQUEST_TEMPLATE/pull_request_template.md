@@ -1,6 +1,6 @@
-# Thanks for your contribution to Exiled!
+Thanks for your contribution to Exiled!
 
-## Before opening a pull request, please make sure that:
+Before opening a pull request, please make sure that:
 
 1. If you add some new stuff, check that you write a valid documentation.
 2. If you make some changes in code, please check that your Exiled solution builds without errors and warnings.
@@ -13,4 +13,4 @@
 
     it will not megred as quickly as others pull-requests.
 
-## Delete all of this text if you have read it and checked your pull request.
+Delete all of this text if you have read it and checked your pull request.
